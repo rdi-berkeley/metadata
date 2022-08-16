@@ -1,4 +1,4 @@
-![](https://github.com/MetaGuard/MetaGuard/raw/main/Images/banner.png)
+![](https://github.com/rdi-berkeley/metadata/blob/main/img/metadata-thumb-gh.png?raw=true)
 
-- MetaGuard Website: https://rdi.berkeley.edu/metaguard
-- MetaGuard GitHub: https://github.com/MetaGuard/MetaGuard
+- MetaData Website: https://rdi.berkeley.edu/metadata
+- MetaData GitHub: https://github.com/MetaGuard/MetaData
